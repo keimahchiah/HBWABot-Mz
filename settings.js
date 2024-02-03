@@ -11,11 +11,11 @@ global.autoread = false // true a i dah chuan message zawng zawng read vek zelin
 global.autoread_status = false // true a i dah chuan auto status view in a awm ang
 
 //info
-global.owner = ['918416093656'] // I phone number in thlak rawh
-global.ownernumber = '918416093656' // I phone number in thlak rawh
-global.ownername = "꧁Herbert♕꧂" // I hming dah tel bawk la
-global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
-global.botname = "HBWABot Mizo" // I bot hming tur dah la
+global.owner = ['6909284606'] // I phone number in thlak rawh
+global.ownernumber = '6909284606' // I phone number in thlak rawh
+global.ownername = "꧁Billy bawitlung꧂" // I hming dah tel bawk la
+global.location = "India, Mizoram, Champhai" // I awmna hmun daha
+global.botname = "Assistant" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
 global.themeemoji = '🤖'
 global.creator = "918416093656@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
